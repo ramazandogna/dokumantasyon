@@ -38,7 +38,7 @@ Check [default theme docs][default-theme] for full reference.
 You can [add extra style][style] with `.vuepress/styles/index.scss` file.
 
 [routing]: https://vuejs.press/guide/page.html#routing
-[content]: https://vuejs.press/guide/page.html#content
+[content]: http://localhost:8080/icerikler/
 [synatex-extensions]: https://vuejs.press/guide/markdown.html#syntax-extensions
 [vue-feature]: https://vuejs.press/guide/markdown.html#using-vue-in-markdown
 [config]: https://vuejs.press/guide/configuration.html#client-config-file

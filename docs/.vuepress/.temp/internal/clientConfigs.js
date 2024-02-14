@@ -6,6 +6,7 @@ import clientConfig4 from '/Users/ramazandogan/Github/dokumantasyon/node_modules
 import clientConfig5 from '/Users/ramazandogan/Github/dokumantasyon/node_modules/.pnpm/@vuepress+plugin-nprogress@2.0.0-rc.14_vuepress@2.0.0-rc.7/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig6 from '/Users/ramazandogan/Github/dokumantasyon/node_modules/.pnpm/@vuepress+plugin-theme-data@2.0.0-rc.14_vuepress@2.0.0-rc.7/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig7 from '/Users/ramazandogan/Github/dokumantasyon/node_modules/.pnpm/@vuepress+theme-default@2.0.0-rc.14_vuepress@2.0.0-rc.7/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig8 from '/Users/ramazandogan/Github/dokumantasyon/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -16,4 +17,5 @@ export const clientConfigs = [
   clientConfig5,
   clientConfig6,
   clientConfig7,
+  clientConfig8,
 ]

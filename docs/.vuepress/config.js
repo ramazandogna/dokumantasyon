@@ -16,6 +16,18 @@ export default defineUserConfig({
             text: 'Ana Sayfa',
             link: '/',
          },
+         {
+            text: 'Rehber',
+            link: '/rehber',
+         },
+         {
+            text: 'İçerikler',
+            link: '/icerikler/',
+         },
+         {
+            text: 'Hakkında',
+            link: '/hakkinda',
+         },
       ],
    }),
    bundler: viteBundler(),

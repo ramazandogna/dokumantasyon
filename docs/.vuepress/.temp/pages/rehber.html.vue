@@ -4,7 +4,7 @@
 <p>You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.</p>
 <p>See <a href="https://vuejs.press/guide/page.html#routing" target="_blank" rel="noopener noreferrer">routing<ExternalLinkIcon/></a> for more details.</p>
 <h2 id="icerik" tabindex="-1"><a class="header-anchor" href="#icerik"><span>İçerik</span></a></h2>
-<p>Every markdown file <a href="http://localhost:8080/icerikler/liste.html" target="_blank" rel="noopener noreferrer">will be rendered to HTML, then converted to a Vue SFC<ExternalLinkIcon/></a>.</p>
+<p>Every markdown file <a href="http://localhost:8080/icerikler/" target="_blank" rel="noopener noreferrer">will be rendered to HTML, then converted to a Vue SFC<ExternalLinkIcon/></a>.</p>
 <p>VuePress support basic markdown syntax and <a href="https://vuejs.press/guide/markdown.html#syntax-extensions" target="_blank" rel="noopener noreferrer">some extensions<ExternalLinkIcon/></a>, you can also <a href="https://vuejs.press/guide/markdown.html#using-vue-in-markdown" target="_blank" rel="noopener noreferrer">use Vue features<ExternalLinkIcon/></a> in it.</p>
 <h3 id="test-icerik" tabindex="-1"><a class="header-anchor" href="#test-icerik"><span>Test İçerik</span></a></h3>
 <p>Bura'da test içerikler yer alıyor.</p>

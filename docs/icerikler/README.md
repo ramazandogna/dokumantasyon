@@ -1,10 +1,11 @@
 ---
 home: true
-title: Anasayfa
+title: İçerik
 heroImage: https://vuejs.press/images/hero.png
+
 actions:
-   - text: Rehber
-     link: /rehber.html
+   - text: Liste
+     link: /icerikler/liste.html
      type: primary
 
    - text: Github
